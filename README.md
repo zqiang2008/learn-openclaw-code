@@ -1,7 +1,5 @@
 # Learn OpenClaw — 循序渐进掌握 AI 网关架构
 
-[English](./README.md) | [中文](./README-zh.md)
-
 ## 项目定位
 
 本项目是 [OpenClaw](https://github.com/openclaw/openclaw) 的**架构学习课程**
